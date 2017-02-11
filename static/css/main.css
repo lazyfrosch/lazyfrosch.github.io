@@ -164,6 +164,10 @@ body {
   font-size: 18px;
 }
 
+img.inline {
+  vertical-align: baseline;
+}
+
 /* Footer 
 -------------------------------------------------- */
 
