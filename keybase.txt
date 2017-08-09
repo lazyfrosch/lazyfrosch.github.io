@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/lazyfrosch
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lazyfrosch.de
+  * I am lazyfrosch (https://keybase.io/lazyfrosch) on keybase.
+  * I have a public key ASDj_jyI3Xp_5QBYGZVBbVPIVH7r4nGSucgYqjAqRyUQOAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101e3ae46dbe5b3f2b560e50f28a12b60d52600152ea7393be89e1f3e1c72c65f7d0a",
+      "host": "keybase.io",
+      "kid": "0120e3fe3c88dd7a7fe500581995416d53c8547eebe27192b9c818aa302a472510380a",
+      "uid": "d41f089a1e88373d01a83f4b98d4fc19",
+      "username": "lazyfrosch"
+    },
+    "merkle_root": {
+      "ctime": 1502303124,
+      "hash": "e32b8fce8a96b9829d0baeb59368cf4a8c180ee0f4c38928e082d90c54327c6ab070271d907ab308d2b267ca0a605539299f965c0b3085bf11d830c3386a166e",
+      "hash_meta": "25e17a68633370d7db4af09e00a4327d06551e73f09d47afdb6a511544af66ee",
+      "seqno": 1315853
+    },
+    "service": {
+      "hostname": "lazyfrosch.de",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.27"
+  },
+  "ctime": 1502303230,
+  "expire_in": 504576000,
+  "prev": "769e9f66089872c90edbf2437101ea8929b99746dbe9fc8326b4e0710018efc5",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg4/48iN16f+UAWBmVQW1TyFR+6+JxkrnIGKowKkclEDgKp3BheWxvYWTFA0h7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZTNhZTQ2ZGJlNWIzZjJiNTYwZTUwZjI4YTEyYjYwZDUyNjAwMTUyZWE3MzkzYmU4OWUxZjNlMWM3MmM2NWY3ZDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZTNmZTNjODhkZDdhN2ZlNTAwNTgxOTk1NDE2ZDUzYzg1NDdlZWJlMjcxOTJiOWM4MThhYTMwMmE0NzI1MTAzODBhIiwidWlkIjoiZDQxZjA4OWExZTg4MzczZDAxYTgzZjRiOThkNGZjMTkiLCJ1c2VybmFtZSI6Imxhenlmcm9zY2gifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDIzMDMxMjQsImhhc2giOiJlMzJiOGZjZThhOTZiOTgyOWQwYmFlYjU5MzY4Y2Y0YThjMTgwZWUwZjRjMzg5MjhlMDgyZDkwYzU0MzI3YzZhYjA3MDI3MWQ5MDdhYjMwOGQyYjI2N2NhMGE2MDU1MzkyOTlmOTY1YzBiMzA4NWJmMTFkODMwYzMzODZhMTY2ZSIsImhhc2hfbWV0YSI6IjI1ZTE3YTY4NjMzMzcwZDdkYjRhZjA5ZTAwYTQzMjdkMDY1NTFlNzNmMDlkNDdhZmRiNmE1MTE1NDRhZjY2ZWUiLCJzZXFubyI6MTMxNTg1M30sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJsYXp5ZnJvc2NoLmRlIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjcifSwiY3RpbWUiOjE1MDIzMDMyMzAsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiNzY5ZTlmNjYwODk4NzJjOTBlZGJmMjQzNzEwMWVhODkyOWI5OTc0NmRiZTlmYzgzMjZiNGUwNzEwMDE4ZWZjNSIsInNlcW5vIjoxOCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxECodJdyHsG9mENcqm2VMffERm5rQ5QOXuUeKC+/kPYgRpwboNc42isMzjwZY0uAiFg6jM70aYVQIN5YalaIJuEHqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQglqGI3ALf1XvwrR9uGOBuS3PpEvwADijOOWKDeQdC0vqjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lazyfrosch
+
+==================================================================
