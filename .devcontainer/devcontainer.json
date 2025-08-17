@@ -1,0 +1,17 @@
+// https://aka.ms/devcontainer.json
+{
+	"name": "Jekyll",
+	"dockerFile": "Dockerfile",
+
+	// Features to add to the dev container. More info: https://containers.dev/features.
+	// "features": {},
+
+	// Use 'forwardPorts' to make a list of ports inside the container available locally.
+	"forwardPorts": [3000, 35729],
+
+	// Use 'postCreateCommand' to run commands after the container is created.
+	"postCreateCommand": "rm -f Gemfile.lock && bundle install && bundle cache",
+
+	// Configure tool-specific properties.
+	// "customizations": {},
+}

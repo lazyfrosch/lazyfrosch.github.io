@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "command": "bundle exec jekyll server --livereload",
+            "name": "Run Jekyll Server",
+            "request": "launch",
+            "type": "node-terminal"
+        }
+    ]
+}

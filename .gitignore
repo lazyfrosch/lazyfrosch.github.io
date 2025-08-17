@@ -6,6 +6,7 @@
 .jekyll-metadata
 Gemfile.lock
 .ruby-version
+/vendor/
 
 # webstorm
 .idea/
